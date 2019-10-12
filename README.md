@@ -1,1 +1,3 @@
 # Predicting-Mental-Health-Using-Social-Media-Posts
+
+To predict the mental health of users using their social media posts, using emotional analysis and machine learning algorithms. To download twitter info, use twitter scraper. To build train data, use textblob to perform sentimental analysis of this data. Clean the data and pre-process it.Split the data generated manually into the dataset of test and train. Use the train data set to create models (KNN, logistic regression and random forest) Use the test data set to verify the model's accuracy. Evaluate the model to select the best one. Do all models cross-validation.
